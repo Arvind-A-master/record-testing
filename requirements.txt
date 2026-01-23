@@ -4,3 +4,5 @@ pandas
 python-dateutil
 python-dotenv
 dnspython
+google-cloud-storage
+google-auth
